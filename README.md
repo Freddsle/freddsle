@@ -1,4 +1,4 @@
-## Love medicine, bioinformatics 
+## Love bioinformatics and medicine
 ... and hamsters 🐹
 
 \
